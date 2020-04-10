@@ -2,11 +2,11 @@
 
 Team :-
 
- 1.VAMSHI KRISHNA Hasanabad
+  1.VAMSHI KRISHNA Hasanabad
  
- 2.SRIKANTH GOSKULA
+  2.SRIKANTH GOSKULA
  
- 3.SUBHAKANTA PATI
+  3.SUBHAKANTA PATI
 
 ## Learning Competencies
 By the end of this milestone ensure that you
