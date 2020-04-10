@@ -1,5 +1,11 @@
 # Milestone-4: Card game
 
+Team :-
+
+ 1.VAMSHI KRISHNA Hasanabad
+ 2.SRIKANTH GOSKULA
+ 3.SUBHAKANTA PATI
+
 ## Learning Competencies
 By the end of this milestone ensure that you
  - [ ] write tests for any program you are ever going to build
