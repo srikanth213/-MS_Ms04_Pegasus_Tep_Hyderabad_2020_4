@@ -1,0 +1,72 @@
+#header {
+    color:black;
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+#size {
+    text-align: center;
+    color: blue;
+}
+
+.Container {
+    background-color:lightslategray;
+    position: relative;
+    top: 15px;
+    left: 10%;
+    right: -10%;
+    width: 80%;
+    height: 40%;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.cards {
+    height: 150px;
+    width: 120px;
+    padding: 2px;
+    border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    left: 10px;
+    display: inline-block;
+    font-family: monospace;
+    border-radius: 10px;
+    border:dotted;
+}
+
+#dealertext {
+    text-align: center;
+    color:white;
+}
+
+#usertext {
+    text-align: center;
+    color:white;
+}
+
+#topnumber {
+    text-align: left;
+    font-size: medium;
+    position: absolute;
+    top:-25px;
+    left: 5px;
+}
+
+#middlenumber {
+    text-align: center;
+    font-size: x-large;
+    position:absolute;
+    top: 15%;
+    left: 40%;
+}
+
+#bottomnumber { 
+    text-align: right;
+    font-size: medium;
+    position: absolute;
+    bottom: -25px;
+    right: 5px;
+}
